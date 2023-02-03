@@ -73,6 +73,7 @@ nav {
 
 .navbar-shopping-cart {
     position: relative;
+    cursor:pointer;
 }
 
 .navbar-shopping-cart div {
@@ -296,6 +297,7 @@ nav {
     height: 240px;
     border-radius: 20px;
     object-fit: cover;
+    cursor:pointer;
 }
 
 .product-info {
@@ -350,6 +352,7 @@ nav {
     z-index: 2;
     padding: 12px;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .product-dtl2-close:hover {
